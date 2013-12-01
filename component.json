@@ -1,0 +1,9 @@
+{
+  "name": "rel-svg-path",
+  "repo": "jkroso/rel-svg-path",
+  "description": "define a path using only relative points",
+  "keywords": ["svg","path","relative"],
+  "dependencies": {},
+  "scripts": ["index.js"],
+  "license": "MIT"
+}

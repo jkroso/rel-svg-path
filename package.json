@@ -1,0 +1,18 @@
+{
+  "name": "rel-svg-path",
+  "version": "0.1.0",
+  "description": "define a path using only relative points",
+  "keywords": ["svg","path","relative"],
+  "dependencies": {},
+  "devDependencies": {
+    "serve": "jkroso/serve",
+    "dom": "component/dom",
+    "parse-svg-path": "*",
+    "jsmd": "*"
+  },
+  "repository": "git://github.com/jkroso/rel-svg-path.git",
+  "bugs": "https://github.com/jkroso/rel-svg-path/issues",
+  "author": "Jake Rosoman",
+  "files": ["index.js"],
+  "license": "MIT"
+}
