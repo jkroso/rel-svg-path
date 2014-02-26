@@ -5,8 +5,9 @@
   "keywords": ["svg","path","relative"],
   "dependencies": {},
   "devDependencies": {
-    "serve": "jkroso/serve",
-    "dom": "component/dom",
+    "dom": "component/dom#5d8f77e",
+    "serve": "jkroso/serve#1.5.3",
+    "svg": "jkroso/svg#7d5a00b",
     "parse-svg-path": "*",
     "jsmd": "*"
   },
