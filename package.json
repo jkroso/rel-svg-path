@@ -1,6 +1,6 @@
 {
   "name": "rel-svg-path",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "define a path using only relative points",
   "keywords": ["svg","path","relative"],
   "dependencies": {},
